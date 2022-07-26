@@ -9,3 +9,14 @@
     top: 177px;
     left: 110px;
 }
+
+.pawprint{
+    position: fixed;
+    top: 48px;
+    left: 66px;
+}
+
+.top-hat{
+    position: relative;
+    z-index: 1;
+}
